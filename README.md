@@ -1,0 +1,1 @@
+Foi criado um gerador de paleta de cores, onde ao clicar a sequencia das cores são escolhidas de forma randomicas.
